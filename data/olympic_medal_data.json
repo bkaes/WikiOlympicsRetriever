@@ -1,0 +1,74 @@
+{
+  "Iran": {
+    "gold": 3,
+    "silver": 1,
+    "bronze": 4,
+    "total": 8
+  },
+  "Denmark": {
+    "gold": 2,
+    "silver": 6,
+    "bronze": 7,
+    "total": 15
+  },
+  "Turkey": {
+    "gold": 1,
+    "silver": 3,
+    "bronze": 4,
+    "total": 8
+  },
+  "New Zealand": {
+    "gold": 4,
+    "silver": 9,
+    "bronze": 5,
+    "total": 18
+  },
+  "Ukraine": {
+    "gold": 2,
+    "silver": 5,
+    "bronze": 4,
+    "total": 11
+  },
+  "Ethiopia": {
+    "gold": 1,
+    "silver": 2,
+    "bronze": 5,
+    "total": 8
+  },
+  "Kenya": {
+    "gold": 6,
+    "silver": 6,
+    "bronze": 1,
+    "total": 13
+  },
+  "Sweden": {
+    "gold": 2,
+    "silver": 6,
+    "bronze": 3,
+    "total": 11
+  },
+  "Belgium": {
+    "gold": 2,
+    "silver": 2,
+    "bronze": 2,
+    "total": 6
+  },
+  "Georgia": {
+    "gold": 2,
+    "silver": 1,
+    "bronze": 4,
+    "total": 7
+  },
+  "Uzbekistan": {
+    "gold": 4,
+    "silver": 2,
+    "bronze": 7,
+    "total": 13
+  },
+  "Switzerland": {
+    "gold": 3,
+    "silver": 2,
+    "bronze": 2,
+    "total": 7
+  }
+}
