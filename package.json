@@ -1,7 +1,7 @@
 {
   "name": "scraper",
   "version": "1.0.0",
-  "main": "scrape_medals.js",
+  "main": "scrape.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,8 +13,14 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.44.4",
     "cheerio": "^1.0.0-rc.12",
+    "date-fns": "^3.6.0",
     "dotenv": "^16.4.5",
+    "fuse.js": "^7.0.0",
+    "https": "^1.0.0",
     "node-fetch": "^3.3.2",
-    "puppeteer": "^22.14.0"
+    "node-ical": "^0.18.0",
+    "puppeteer": "^22.14.0",
+    "wikiparser-node": "^1.11.1",
+    "wtf_wikipedia": "^10.3.2"
   }
 }
